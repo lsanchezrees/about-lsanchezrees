@@ -22,8 +22,28 @@
 		and I at Ayers Rock, Australia.  We're taking a camel ride to a dinner under the stars.</p>
 		<p>The picture next to it is a picture of my dogs, Bailey and Lucy.  Bailey was a Katrina rescue who died last
 		year.  We got Lucy in December 2014. </p>
-
 		<img src="images/australia.png" alt="Australia" >
 		<img src="images/baileylucy.jpg" alt="Bailey & Lucy" >
+		<h2>Addition by Jack</h2>
+		<p>Before ending up in the New Mexico desert, Leonora spent the past three years backpacking through Europe.
+			Her travels first took her through the mountains of Austria where she trenched through the brutal winter
+			blizzards and took shelter in a cave belonging to none other than the infamous Yeti. After a lengthy battle,
+			Leonora emerged victorious and continued on her journey.
+		</p>
+		<p>
+			After Austria, she ventured into Spanish backcountry where she spent time in Spain's finest
+			vineyards and became a master winemaker.  After bottling up one last rioja for the road, she continued her
+			journey.
+		</p>
+		<img src="images/spain.jpg" alt="vineyard">
+		<p>
+			The last stop on Leonora's journey through Europe landed her in France. After picking up the French language
+			in two days to the level of a native speaker, she then began studying the works of Monet in order to
+			reproduce exact copies of some of his most famous works. Just for the fun of it. That afternoon she sailed
+			back to the United States on a boat she made herself. Now that she is back in the U.S., when Leonora is not
+			in class she can be found at the bar drinking a Dos Equis and swapping stories with someone known only as
+			"the most interesting man in the world".
+		</p>
+
 	</body>
 </html>
